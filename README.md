@@ -5,6 +5,8 @@
         <img src="https://raw.githubusercontent.com/hennir/test/master/Koala.jpg" width="200"/>
     </a>
 </p>
+<br />
+<br />
 <table>
     <tr>
         <td>Название предмета</td>
