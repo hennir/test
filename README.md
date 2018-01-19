@@ -1,5 +1,6 @@
 # Расписание
 Мое расписание
+<img src="https://raw.githubusercontent.com/hennir/test/master/Koala.jpg" />
 <table>
     <tr>
         <td>Название предмета</td>
