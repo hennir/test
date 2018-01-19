@@ -22,3 +22,14 @@
         <td>пн 22 января</td>
     </tr>
 </table>
+
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
+<ul>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ul>
