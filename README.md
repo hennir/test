@@ -1,7 +1,9 @@
 # Расписание
 Мое расписание
 <p>
-<img src="https://raw.githubusercontent.com/hennir/test/master/Koala.jpg" width="200"/>
+    <a href="https://www.facebook.com/profile.php?id=100013570174014&ref=br_rs"
+        <img src="https://raw.githubusercontent.com/hennir/test/master/Koala.jpg" width="200"/>
+    </a>
 </p>
 <table>
     <tr>
